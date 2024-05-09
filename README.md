@@ -2,6 +2,9 @@
 
 This is a full-stack application that allows users to search over 100 million songs, movies, TV shows, podcasts, audiobooks, and more from Apple's collection. Users can search by keyword and filter by media type. Additionally, users can mark items as favourites.
 
+<img width="1440" alt="Screenshot 2024-05-09 at 13 41 46" src="https://github.com/tomasvrensburg/itunes-search/assets/60756248/41d74e51-5ce0-47ea-a8a6-8853503d4d4d">
+<img width="1440" alt="Screenshot 2024-05-09 at 13 42 40" src="https://github.com/tomasvrensburg/itunes-search/assets/60756248/0238872e-7d13-429d-a657-711988e2c9fb">
+
 ## Frontend (React)
 
 The frontend is responsible for handling user input, fetching search results from the backend, and displaying the results. Users can enter a search term, select a media type, and view search results. They can also mark items as favorites.
