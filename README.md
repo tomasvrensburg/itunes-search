@@ -1,6 +1,3 @@
-# itunes-search
-A full-stack web application that uses the MERN stack and  interfaces with iTunes Search API to search for various media types in a user-friendly manner.
-
 # iTunes Search Full-Stack App
 
 This is a full-stack application that allows users to search over 100 million songs, movies, TV shows, podcasts, audiobooks, and more from Apple's collection. Users can search by keyword and filter by media type. Additionally, users can mark items as favourites.
